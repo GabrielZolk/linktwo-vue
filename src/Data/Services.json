@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Youtube",
+        "img": "https://user-images.githubusercontent.com/109248116/225467256-53bf31f1-966d-41b6-b9cb-e5476b8a890e.png",
+        "href": "https://www.youtube.com/zolkmusic"
+    },
+    {
+        "title": "Instagram",
+        "img": "https://user-images.githubusercontent.com/109248116/225467239-68a1ca41-0ae5-4b58-bcae-d178ee0944c9.png",
+        "href": "https://www.instagram.com/gabriel_zolk/"
+    },
+    {
+        "title": "LinkedIn",
+        "img": "https://user-images.githubusercontent.com/109248116/225467247-92f5fe40-0357-445e-b416-c1295158f377.png",
+        "href": "https://www.linkedin.com/in/gabriel-zolk/"
+    },
+    {
+        "title": "Github",
+        "img": "https://user-images.githubusercontent.com/109248116/225467237-1a88d3f3-4ee8-4096-8512-ea036b96648b.png",
+        "href": "https://github.com/GabrielZolk"
+    },
+    {
+        "title": "Portfolio",
+        "img": "https://user-images.githubusercontent.com/109248116/225467252-0e0c35b4-e4e0-4708-a27e-9faef652c142.png",
+        "href": "https://portfolio-gabrieleagle.vercel.app/"
+    }
+]
