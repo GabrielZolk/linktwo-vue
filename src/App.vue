@@ -11,6 +11,10 @@ export default {
     }
   },
   mounted() {
+    fetch('https://raw.githubusercontent.com/GabrielZolk/linktwo-vue/main/src/Data/Services.json')
+    .then(res => res.json())
+    .then(res => this.services = res)
+    .catch(e => console.log(e))
     this.services = Data;
   }
 }
@@ -26,6 +30,7 @@ export default {
     </a>
   </div>
   <h1>Linktwoo</h1>
+  <h2>Gabriel Zolk</h2>
   <hr />
   <div class="items">
     <Item 
