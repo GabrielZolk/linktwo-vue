@@ -1,8 +1,13 @@
-# Vue 3 + Vite
+# Um simples unificador de Links inspirado no Linktree
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+<br>
 
-## Recommended IDE Setup
+## Page
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-# linktwo-vue
+<br>
+
+![image](https://user-images.githubusercontent.com/109248116/225475066-45938f73-ec16-4025-8b9b-a2f599b0dab1.png)
+
+<br>
+
+🔗 [Link](https://linktwo-vue.vercel.app/)
